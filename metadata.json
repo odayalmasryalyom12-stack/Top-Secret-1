@@ -1,0 +1,6 @@
+{
+  "name": "منصة مدرسة المستقبل الذكية",
+  "description": "منصة تعليمية متكاملة للتواصل المدرسي، جداول الحصص، وأخبار المدرسة للطلاب والمعلمين وأولياء الأمور والإدارة مع حساب المدير VIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
